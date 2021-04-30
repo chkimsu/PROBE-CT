@@ -1,5 +1,5 @@
 ## SKT - PROBE&CT
-==============================
+
 SKT에서 진행한 Rule Engine 분류 및 이상치 탐지 프로젝트
 
 Project Organization
