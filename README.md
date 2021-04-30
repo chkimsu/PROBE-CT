@@ -1,6 +1,6 @@
 ## SKT - PROBE&CT
 
-SKT에서 진행한 Rule Engine 분류 및 이상치 탐지 프로젝트
+NTELS Data Scientist로서 SKT에서 진행한 Rule Engine 분류 및 이상치 탐지 프로젝트에 6개월간 참여해 진행한 프로젝트
 
 Project Organization
 ------------
